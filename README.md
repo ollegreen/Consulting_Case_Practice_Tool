@@ -1,4 +1,4 @@
-# CasePractice
+# CasePrep
 test to practice case structures with flashcards. 
 
 Included areas should be:
