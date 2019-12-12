@@ -1,13 +1,16 @@
 # CasePrep
-test to practice case structures with flashcards. 
 
-Included areas should be:
-- profitability cases
-- market entry / general framework for all cases (Product, Consume, Company, Competition)
+Basically a program you can run in your terminal to test yourself for the starting section of a case interview. 
+
+Two versions; CasePrepAll and CasePrepMath. The difference is that CasePrepMath only have the math section if you want to focus on that area, while the CasePrepAll has everything below included.
+
+Included areas:
+- profitability case scenario
+- market entry scenario
+- product launch
 - 3Cs framework / porters 5 forces
 - M&A framework 
-- math problems (with a lot of zeros)
-- Math formulas (Revenue, cost, profit, ROI, break-even, profit margin)
-- Fit questions 
-- PEI questions (lead team through tough situation, disagreement with colleague/boss, overcame difficult challenge) 
-- Understand the 7 different questions and identify what framework/structure you should use to solve each question (Situation, Framework development, framework exploration, Quant-DataProvided, Quant-NoDataProvided, Creativity, Recommendation)
+- Math problems (with a lot of zeros)
+- Basic ratios/formulas
+- Fit questions
+- PEI questions
