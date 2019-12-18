@@ -1,0 +1,53 @@
+@font-face {
+	font-family:opensans;
+	scr: url('Resources/OpenSans-Regular.ttf')
+}
+
+body {
+	backgrond-color: #222222;
+}
+
+prompt {
+	font-family:opensans;
+	textalign:center;
+	font-size:25px;
+	color:white;
+
+	transform:translate(-50%,-50%);
+	position:fixed;
+	top:40%;
+	left:50%;
+	width:90;
+}
+
+.button {
+	background-color: #eb3f3f;
+	font-family:opensans;
+	text-align: center;
+	font-size:25px;
+	color:white;
+	border:none;
+	cursor:pointer;
+
+	position:fixed;
+	bottom:10%;
+	width:50%;
+	left:25%;
+	padding:10px 0px;
+
+	user-select:none;
+	-webkit-user-select:none;
+	-webkit-touch-callout:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+
+}
+
+.button:hover {
+	background-color: #ff7070;
+}
+
+.button:active {
+	background-color: #;
+
+}
