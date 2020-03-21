@@ -7,7 +7,8 @@ Standard Questions for;
 - Investment Bankers
 
 
-**Two versions; CasePrepAll and CasePrepMath.**
+## Two versions; CasePrepAll and CasePrepMath.
+
 The difference is that CasePrepMath only have the math section if you want to focus on that area, while the CasePrepAll has everything below included.
 
 Included areas:
