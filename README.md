@@ -9,7 +9,9 @@ Standard Questions for;
 
 ## Two versions; CasePrepAll and CasePrepMath.
 
-The difference is that CasePrepMath only have the math section if you want to focus on that area, while the CasePrepAll has everything below included.
+**CasePrepMath** - only have the math section if you want to focus on that area, so multiplication and division as they are commonly used in guesstimates and case questions.
+
+**CasePrepAll** - has everything below included;
 
 Included areas:
 - profitability case scenario
